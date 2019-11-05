@@ -11,3 +11,5 @@
 5. Links to .pdfs of digital media 
 
 6. Font: Georgia
+
+7. Site background color: #A5BCFE
