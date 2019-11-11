@@ -4,12 +4,16 @@
 
 2. Links to my publications
 
-3. .pngs of digital media 
+3. .pngs of my digital media 
 
-4. .pdfs of digital media (more than 2 pages)
+4. .pdfs of my digital media (more than 2 pages)
 
-5. Links to .pdfs of digital media 
+5. Links to my .pdfs of digital media 
 
 6. Font: Georgia
 
 7. Site background color: #A5BCFE
+
+8. LinkedIn Logo
+
+9. Resume Logo: http://www.pngmart.com/image/134032 "Image License: Free for personal use only"
