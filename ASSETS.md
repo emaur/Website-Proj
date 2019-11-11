@@ -14,6 +14,6 @@
 
 7. Site background color: #A5BCFE
 
-LinkedIn Logo
+8. LinkedIn Logo
 
-Resume Logo: http://www.pngmart.com/image/134032 "Image License: Free for personal use only"
+9. Resume Logo: http://www.pngmart.com/image/134032 "Image License: Free for personal use only"
