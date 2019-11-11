@@ -1,0 +1,92 @@
+h1{
+  text-align: center;
+  font-size: 3.8em;
+  float:left;
+  color: white;
+}
+
+h2{
+  font-size: 2em;
+}
+
+p{
+  font-size: 1.2em;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.row{
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+@media screen and (min-width: 1400px) {
+#pitt-news a {
+  max-width: 30%;
+  padding: 15px;
+}
+}
+
+img{
+  padding: 30px;
+}
+
+body{
+  background-color: #A5BCFE;
+  margin: 2em;
+  font-family: "Geneva";
+  color: white;
+}
+
+p{
+  margin: 1em;
+  padding: 20px;
+}
+
+
+#navbar{
+  display: flex;
+  justify-content: space-between;
+  width:100%;
+  padding: 5px;
+  margin: 5px;
+  height:40px;
+  border:2px solid white;
+  float:center;
+}
+
+#navbar>li{
+  width:33%;
+  list-style:none;
+  display: flex;
+  justify-content: stretch;
+}
+
+#navbar>li a{
+  width: 100%;
+}
+
+li>a{
+  display:list-item;
+  color: white;
+  line-height:40px;
+  text-align: center;
+  font-size: 1.2em;
+  font-family: "Geneva";
+}
+
+li>a:hover{
+  border-style: inset;
+  background: lightgrey;
+  color: inherit;
+}
